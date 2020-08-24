@@ -7,3 +7,8 @@ The purpose of all the demos in here are to show the best of Katalon so that all
 
 > **Pro-tip**: There's always Client's customized inquiries. In that case, please create all the steps under the Customized folder under the structure 
 
+| No | Editor | Last Edit|
+|--|--|--|
+| 1 | Thai Nguyen | 24th Aug |
+
+#
