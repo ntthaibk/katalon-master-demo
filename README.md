@@ -26,3 +26,5 @@ This list will update based on additional features of Katalon
 | 5 | Mobile Testing | Facebook application testing
 | 6 | Katalon Analytics | Massive Test result upload to KA
 | 7 | Sample Project Structure | Massive Test cases strictly follow POM
+
+> To be determine
