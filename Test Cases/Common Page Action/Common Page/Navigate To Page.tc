@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Navigate To Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0df79d07-2761-4dd1-b1a0-6299757d1182</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3af7f197-4077-4d99-a5df-3f63ddb306fc</id>
+      <masked>false</masked>
+      <name>PageName</name>
+   </variable>
+</TestCaseEntity>

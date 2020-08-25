@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login With Different Account</name>
+   <tag>Common</tag>
+   <comment></comment>
+   <testCaseGuid>4865db87-40c9-4d2b-adf8-b3f8cecbe9af</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd38a49a-2a43-44ec-a18a-d4e2e8978912</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b692148d-0b1f-4daa-8c2e-8d379e40a12d</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Login</name>
-   <tag></tag>
+   <tag>Common</tag>
    <comment></comment>
    <testCaseGuid>9ba4da16-dbaa-4307-bc46-b8191233326f</testCaseGuid>
 </TestCaseEntity>

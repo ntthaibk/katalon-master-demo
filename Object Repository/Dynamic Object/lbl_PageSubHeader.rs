@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_PageSubHeader</name>
+   <tag></tag>
+   <elementGuidId>7f5c4194-cb87-4bc0-8c8d-cb427a214603</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='mainMenu']//ul/li[./*[text()='${SubPageLabel}']]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='mainMenu']//ul/li[./*[text()='${SubPageLabel}']]</value>
+   </webElementProperties>
+</WebElementEntity>

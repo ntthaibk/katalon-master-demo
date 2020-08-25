@@ -16,3 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Dynamic Object/lbl_PageHeader', 
+		['PageLabel': PageName]), GlobalVariable.MediumWait)
+
+WebUI.enhancedClick(
+	findTestObject('Object Repository/Dynamic Object/lbl_PageHeader', 
+		['PageLabel': PageName]))
+
